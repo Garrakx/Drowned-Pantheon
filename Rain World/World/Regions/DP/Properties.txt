@@ -1,3 +1,3 @@
 Palette: 36
 Subregion: Drowned Pantheon
-Room Setting Templates: Interior, Exterior, Dark Exterior, Bog
+Room Setting Templates: Interior, Exterior, DarkExterior, Bog

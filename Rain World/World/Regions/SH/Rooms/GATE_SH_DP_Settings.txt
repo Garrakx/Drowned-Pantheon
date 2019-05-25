@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.6086956
+Grime: 0.05434782
+BkgDroneVolume: 0
+Palette: 36
+EffectColorA: 13
+PlacedObjects: NoSpearStickZone><475.5888><237.5708><-145~193, LightSource><836.8314><384.1076><0.04347826~EffectColor1~49~-74~-29~-247.3975~0~1, LightSource><146.6858><404.8106><0.04347826~EffectColor1~-5~30~50~86.60254~0~1, LightSource><102.9232><385.3999><0.04347826~EffectColor1~-33~5~-180~-113.3975~0~1, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><739.1124><310.1451><0.3478261><1><476.8752><73.91083><-63.35535><136.6447><0><0.2086958, OMNI><SO_WAT-LilDrips.ogg><547.8987><200.8663><0.3695652><1, 
+FadePalette: 10, 0.3043478
