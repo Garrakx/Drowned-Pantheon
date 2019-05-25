@@ -1,0 +1,5 @@
+Template: NONE
+Grime: 0.2717391
+Palette: 36
+Effects: LightBurn-0.2173913-20-20, 
+FadePalette: 10, 0.5543478, 0.5978261

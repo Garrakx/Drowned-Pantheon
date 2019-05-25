@@ -1,0 +1,30 @@
+ROOM
+3x2(X,Y) //indicated with s1, s2, s3... set up in this order
+
+123
+456
+
+hasBatNests
+
+//room attraction is up to you discretion, but this is a pretty scav orientated room, so id set it above neutral for them, and maybe make it a bat room
+END ROOM
+
+
+PIPES
+0-Exit //s3
+1-Exit //s4
+2-DragonDen //s4, i put two squidcadas here
+3-DragonDen //s4, i put five scavs here cause im stupid, not necessary if near other scavs
+4-DragonDen //s6, seven leeches
+5-DragonDen //s4, chef's choice! unused den in the water
+6-DragonDen //s5, unused water den, hard to get out of without wall climbing or flying
+7-DragonDen //s4, great den for a salamander if you dont put scavs in the room
+//so many dens, sorry
+END PIPES
+
+
+NOTES
+this room would work very well after a gate coming into bog, as exit 0 comes out of a building. the ambience is CricketsWnd (and a quiet GlassGhost because i think im special or smthn) but both can be changed with no issue from me. i heard there was a bell tone ambience being made? that with just CricketsWnd would be very nice.
+
+tl;dr(and a ps), do whatever you think is good, my work here is done
+END NOTES

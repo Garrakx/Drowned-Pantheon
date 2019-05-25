@@ -1,0 +1,12 @@
+Pipe Information:
+0 - Top left room connection.
+1 - Bottom left room connection.
+2 - A whack a mole hole near the top middle on the left.
+3 - A whack a mole hole near the top middle on the right.
+4 - A whack a mole hole in the left side of the tunnel.
+4 - A whack a mole hole in the right side of the tunnel.
+
+Specific Room Description:
+Contains slime mold in the middle of the room and a fly lure under the statue at the bottom.
+Player can progress from the bottom via the right wall and from the top via the tunnels or the wall.
+Designed to be near the top right of the light exterior where the outer edge meets a clock tower (you can see this design based on the third layer at the top of the room).

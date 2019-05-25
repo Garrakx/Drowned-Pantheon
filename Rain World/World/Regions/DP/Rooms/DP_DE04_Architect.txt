@@ -1,0 +1,29 @@
+
+Hello there!
+
+The main idea of this room is for it to be the transition (kind of like The Wall concept) between upper and lower part of the tower. 
+So, pipe 0 would connect to some room in the upper part.
+Pipe 1 should be connected to some room located below. 
+Pipe 2 is thought to be a lizard spawn of some sort, as the level is mainly parkour-y, so as to add some creatures.
+
+Thanks for all the work! 
+
+            __		   __	
+           /  \		  /  \
+	  /    |	 |    \
+	 |     |	 |     \
+	 |     |_________|     |
+	 |     / 	       |
+	 |  __        __      /
+	/  /  \      /  \     \
+       /  /    |    /    \     |
+      /	 /    /    |     |     |
+     |	 \___/ __   \___/      |
+     |                         |
+      \			       |			
+       \ 		       |
+	\  		       |
+	/		       |
+       /		       |
+      /			      /
+     /			     /		

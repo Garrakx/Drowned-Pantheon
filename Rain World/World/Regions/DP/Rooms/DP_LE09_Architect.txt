@@ -1,0 +1,7 @@
+Pipe Information:
+0 - Top room connection.
+1 - Bottom room connection.
+
+Specific Room Description:
+This is a transitionary room designed to travel vertically on the map.
+Designed to be on the right of the light exterior under where the outer edge meets the clock tower.

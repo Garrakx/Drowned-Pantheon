@@ -1,0 +1,8 @@
+CeilingDrips: 0.173913
+Clouds: 0.2826087
+Grime: 0.1521739
+Palette: 36
+Effects: Fog-0.6195652-39-84, RockFlea-0.1413043-186-45, FireFlies-0.2717391-146-110, 
+PlacedObjects: DataPearl><766.5953><1616.123><0~0~3~6~0~0, SlimeMold><394.3979><2008.635><-38~-254~3~5, SlimeMold><378.1814><2004.166><-63~-110~2~3, SlimeMold><463.7185><2006.302><0~0~2~3, CosmeticSlimeMold2><383.8082><2024.057><-9~34, CosmeticSlimeMold><490.3114><2033.933><-3~47, KarmaFlower><122.1731><573.8154><0~0~5~7, 
+AmbientSounds: SPOT><AM_WIN-SubWnd.ogg><558.96><447.554><0.5108696><1><490.96><1461.554><-215.3553><-328.3553><0><0.1869567, OMNI><AM_IND-Warehouse03.ogg><737.173><381.8996><0.6521739><1, 
+FadePalette: 10, 0.5434783, 0.5434783, 0.7282609

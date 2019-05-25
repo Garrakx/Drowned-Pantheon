@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.2065217
+Grime: 0.1086956
+Palette: 36
+EffectColorA: 15
+Effects: LightBurn-0.2391304-20-20, Moth-0.4021739-16-90, 
