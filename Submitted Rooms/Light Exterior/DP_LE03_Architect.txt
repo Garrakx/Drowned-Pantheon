@@ -1,0 +1,27 @@
+Brief Summary:
+
+Room Name: DP_LE03
+Category: Light Exterior
+No. of Screens : 9
+Water: Yes
+Open Sky: Yes
+Construction: Two towers standing in water
+
+Entrances: Pipes 0 and 1 are the two entrances to the room. 
+	Pipe 0 opens to the middle right (into the top left corner of the shorter tower); suitable to lead to the upper part of a two-screen vertical/interior room
+	Pipe 1 opens to the bottom left (into the water at the base of the taller tower); suitable to lead to an underwater base or near-surface room
+
+Other Pipes: 
+	Pipes 2 and 3 are above-water dragon dens in the taller tower. Suitable for wall/background-climbing creatures.
+	Pipes 4 and 5 are underwater dragon dens in the stretch of water between the two towers. Suitable for leeches, snails, kelp, salamanders, etc.  
+	All other entrances are sky enrances that can spawn vultures. Water is not deep enough for Leviathans.
+
+Miscellaneous information:
+	1. The room is a designated SWARMROOM and has batfly hives. Migration may need to be controlled.
+	2. Lizards that can climb poles can potentially exit the room from Pipe 0 as well. Lizards that cannot swim should not go down Pipe 1 if it is made to connect to an underwater room.
+	3. The room is not suitable for Scavengers or Green Lizards. Greens may be trapped.
+	4. There are two whack-a-mole holes in the tall tower and two more in the water.
+	5. There is a collectible for a blue token halfay down the outer wall of the taller tower. Requires jumping off the top and sliding down the wall, or a spear or two from the botom to access.
+	   (this token has been set to Cyan Lizard as a default, but it may be set for another creature to suit the spawns of the room/region better if Cyan Lizards are not included in the room.)	
+	
+END

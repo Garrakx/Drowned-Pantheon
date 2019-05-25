@@ -1,0 +1,6 @@
+DangerType: Flood
+Palette: 36
+PlacedObjects: LanternOnStick><162.3919><2882.418><16~-22, LanternOnStick><66.30127><2227.773><17~24, LanternOnStick><314.6006><1710.118><39~36, LanternOnStick><372.3759><1709.844><-54~38, KarmaFlower><339.8073><1706.947><0~0~5~7, DangleFruit><97.8045><2765.042><-71~-133~2~3, LanternOnStick><585.0332><2546.553><7~-25, LanternOnStick><1264.384><2746.899><18~-28, LanternOnStick><1166.338><431.1176><1~-36, LanternOnStick><1447.39><361.357><-38~-37, LanternOnStick><1949.696><766.0406><-19~-21, LanternOnStick><505.3168><393.0801><-25~-26, LanternOnStick><2136.607><587.8308><35~-40, LanternOnStick><326.6752><752.5966><-26~-36, LanternOnStick><1983.664><281.8195><30~-47, DangleFruit><135.8867><2770.396><0~0~2~3, 
+FadePalette: 10, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087, 0.7826087
+RoomSpecificScriptActive: ON
+WetTerrain: OFF

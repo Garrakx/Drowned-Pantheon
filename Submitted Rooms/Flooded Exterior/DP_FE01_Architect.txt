@@ -1,0 +1,6 @@
+Left side entrance (pipe 2) should connect to any Flooded Interior levels 
+and the right side (pipe 1) can connect to other Flooded Exterior levels or to a small Flooded Interior level.
+
+The top left entrance (pipe 0) will be for another level I will make. ("soon")
+
+Finally when creatures will be added, the top left creature spawns (pipe 3 and pipe 4) could have some lantern mice.

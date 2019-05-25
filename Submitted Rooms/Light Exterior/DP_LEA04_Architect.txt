@@ -1,0 +1,7 @@
+Hello Architect!
+
+This room is a single screen room with only one entrance pipe to another light exterior room under it (ideally).
+
+I designed this room to be a swarmroom for batflies and I want a dropwig to spawn in the room in the dragon den at x405y651ish. It should be labeled 1 by the devtools thingy and it's the only dragon den in the room.
+
+If it's possible I'd like the dropwig to favor 2 spots, x125y350 underneath the bigger platflorm and x170y578 next to the metal beam under the ceiling trash. I didn't find anything that did this in the devtools objects/triggers/etc.

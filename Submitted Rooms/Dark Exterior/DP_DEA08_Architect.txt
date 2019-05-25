@@ -1,0 +1,7 @@
+Upper left entrance (pipe 0) can be for any dark or light exterior levels and
+left side entrance (pipe 1) can be for any interior levels.
+Bottom entrance (pipe 3) will connect to "DP_FE01"
+Bottom left entrance (pipe 2) can be disconnected.
+
+Creatures: (pipe 4) can have 1 or 2 lantern mice.
+Should be used as a swarm-room!

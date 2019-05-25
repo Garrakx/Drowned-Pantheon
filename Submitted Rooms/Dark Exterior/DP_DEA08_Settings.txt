@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.3586957
+Grime: 0.1413043
+Palette: 36
+EffectColorA: 15
+PlacedObjects: LightSource><778.0728><605.8426><0.05434782~White~33~-133~-449~-327.3975~1~1, LightSource><280.6993><502.7658><0.4021739~Environment~152~168~49~-297.3975~1~0, NoSpearStickZone><677.6387><-40.64409><1~104, NoSpearStickZone><394.11><568.3572><0~100, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><734.7441><566.3001><0.3913043><1, OMNI><SO_WAT-OpenFlow.ogg><736.164><430.4305><0.25><1, OMNI><AM_WIN_Hilltop.ogg><737.3304><334.6439><0.4456522><1, 
+FadePalette: 10, 0.3043478

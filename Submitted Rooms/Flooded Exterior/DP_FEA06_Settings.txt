@@ -1,0 +1,18 @@
+Template: NONE
+CeilingDrips: 0.7282609
+WaveSpeed: 0.9239131
+WaveLength: 0.1521739
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1413043
+Grime: 0.3913043
+RandomItemSpearChance: 0.4282608
+WaterReflectionAlpha: 1
+Palette: 36
+EffectColorA: 14
+EffectColorB: 13
+Effects: Moth-0.2065217-20-20, 
+PlacedObjects: DataPearl><211.8964><285.1363><61~64~0~0~0~1, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><735.3008><523.7683><0.3586957><1, 
+FadePalette: 10, 0.5326087

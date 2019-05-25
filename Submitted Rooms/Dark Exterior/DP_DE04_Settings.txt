@@ -1,0 +1,12 @@
+Template: NONE
+CeilingDrips: 0.75
+Clouds: 0.2065217
+Grime: 0.7065217
+Palette: 36
+EffectColorA: 14
+EffectColorB: 2
+Effects: FireFlies-0.2065217-17-92, Moth-0.2065217-20-20, Beetle-0.2065217-276-87, 
+PlacedObjects: DataPearl><528.1561><185.9266><0~0~0~0~0~0, CentipedeAttractor><740.8566><765.6108><1~133, DangleFruit><1845.363><471.8546><0~0~2~3, DangleFruit><1819.911><510.3934><0~0~2~3, 
+FadePalette: 10, 0.7065217, 0.7065217, 0.7065217, 0.7065217, 0.7065217
+RoomSpecificScriptActive: ON
+WetTerrain: OFF
