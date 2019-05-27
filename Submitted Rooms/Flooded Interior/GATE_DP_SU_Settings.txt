@@ -6,4 +6,4 @@ Palette: 37
 Effects: Beetle-0-0-0, FireFlies-0-0-0, Moth-0-0-0, LightBurn-0-0-0, Fog-0-0-0, 
 PlacedObjects: LightSource><479.821><381.1606><1~Environment~76~56~-16~136.6025~0~0, LightSource><662.1466><379.4159><1~Environment~0~100~50~86.60254~0~0, LightSource><299.8165><381.5795><1~Environment~0~100~-307~110.6025~0~0, LightSource><480.7418><119.7854><1~Environment~0~100~-66~-166.3974~0~0, LightSource><663.7437><117.0505><1~Environment~0~100~20~-166.3975~0~0, LightSource><298.3765><115.095><1~Environment~0~100~-152~-164.3975~0~0, NoSpearStickZone><482.3683><257.4113><99~257, LightSource><480.2324><617.3008><1~Environment~-3~-152~-12~-125.3975~1~0, 
 AmbientSounds: OMNI><SO_WAT-TubWater.ogg><44.19983><410.9916><0.2065217><0.9608696, OMNI><AM_ENV-CityTone.ogg><30.27118><513.4489><1><0.5304348, 
-FadePalette: 35, 0.4
+FadePalette: 35, 0.2
