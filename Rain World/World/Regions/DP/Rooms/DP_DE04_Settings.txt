@@ -1,7 +1,7 @@
 Template: NONE
 CeilingDrips: 0.75
 Clouds: 0.2065217
-Grime: 0.7065217
+Grime: 0.08695652
 Palette: 36
 EffectColorA: 14
 EffectColorB: 2
