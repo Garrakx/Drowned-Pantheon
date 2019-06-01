@@ -9,4 +9,4 @@ Palette: 36
 EffectColorA: 13
 Effects: LightBurn-0.05434782-35-98, Flies-0-30-30, FireFlies-0.05434782-293-31, 
 PlacedObjects: LightSource><1582.689><205.9341><0.25~Environment~-632~144~50~86.60254~1~0, LightBeam><1452.828><235.3519><-365~522~-206~520~209~-8~59~159~0.3586957~0.4021739~0~1, LightFixture><171.6537><276.378><SlimeMoldLight~96.3205~294~9, SlimeMold><86.13159><325.3494><-216~245~2~3, SlimeMold><130.0532><265.5572><-262~285~2~3, SlimeMold><191.328><267.602><-323~263~2~3, CosmeticSlimeMold><113.824><293.845><90~92, CosmeticSlimeMold2><127.9378><281.6813><65~-37, LightFixture><99.64172><316.8911><SlimeMoldLight~160.3205~230~55, 
-FadePalette: 10, 0.423913, 0.423913
+FadePalette: 10, 0.6847826, 0.7173913

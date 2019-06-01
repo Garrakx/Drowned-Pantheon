@@ -6,5 +6,6 @@ WaterReflectionAlpha: 0.1847826
 Palette: 36
 EffectColorA: 13
 EffectColorB: 7
-Effects: LightBurn-0.07608695-187-201, Fog-0.8043478-188-132, WaterGlowworm-0.6195652-169-68, None-0-20-20, BorderPushBack-1-450-68, VoidSpawn-0-0-0, 
-PlacedObjects: DangleFruit><2019.794><319.5549><0~0~2~3, DangleFruit><1975.754><345.7><0~0~2~3, LightBeam><2072.948><-32.47589><-713~767~-638~761~77~12~-33~118~0.4108701~0~0~1, LightBeam><1822.13><-40.15225><-718~772~-637~769~64~1~124~83.00003~0.4108701~0~0~1, LightBeam><302.6987><-39.52226><221~769~293~771~48~1~-272~146~0.4108694~0~0~1, LanternOnStick><772.0598><85.5618><10~82, 
+Effects: LightBurn-0.1847826-408-139, Fog-0.8043478-188-132, WaterGlowworm-0.6195652-169-68, None-0-20-20, BorderPushBack-1-450-68, VoidSpawn-0-0-0, 
+PlacedObjects: DangleFruit><2019.794><319.5549><0~0~2~3, DangleFruit><1975.754><345.7><0~0~2~3, LightBeam><234.13><244.8477><-190~532~1441~567~1767~80~-141~100~0.7804353~0~1~1, LanternOnStick><504.0598><380.5618><-52~-190, 
+FadePalette: 10, 0.8586956, 0.7065217
