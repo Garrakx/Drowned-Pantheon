@@ -1,0 +1,5 @@
+Clouds: 0.9021739
+Grime: 0.05434782
+PlacedObjects: LightFixture><469.4402><316.6882><RedLight~17.32051~-10~68, LightFixture><903.2><450.7478><RedLight~17.32051~-10~49, 
+AmbientSounds: OMNI><AM_ENV-CricketsWnd.ogg><773.1997><551.4893><0.5><0.6478261, OMNI><SO_SFX-GlassGhost.ogg><775.9693><471.0524><0.173913><0.8043478, OMNI><AM_ENV-SubTerr.ogg><778.122><385.6585><0.2717391><0.6869565, 
+FadePalette: 8, 0.8804348

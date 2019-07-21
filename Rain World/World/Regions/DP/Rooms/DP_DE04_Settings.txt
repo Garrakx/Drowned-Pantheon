@@ -5,8 +5,9 @@ Grime: 0.08695652
 Palette: 36
 EffectColorA: 14
 EffectColorB: 2
-Effects: FireFlies-0.2065217-17-92, Moth-0.2065217-20-20, Beetle-0.2065217-276-87, 
+Effects: FireFlies-0.2065217-17-92, Moth-0.2065217-20-20, Beetle-0.2065217-276-87, LightBurn-0.3695652-311-15, 
 PlacedObjects: DataPearl><528.1561><185.9266><0~0~0~0~0~0, CentipedeAttractor><740.8566><765.6108><1~133, DangleFruit><1845.363><471.8546><0~0~2~3, DangleFruit><1819.911><510.3934><0~0~2~3, 
-FadePalette: 10, 0.7065217, 0.7065217, 0.7065217, 0.7065217, 0.7065217
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><721.3775><448.1541><0.6413044><0.6282609, OMNI><AM_ENV-CricketsWnd.ogg><729.3163><530.3293><0.4456522><0.726087, OMNI><SO_SFX-GlassGhost.ogg><730.45><369.9992><0.2826087><0.8434783, OMNI><SO_SFX-LakeBottom.ogg><531.9492><448.2681><0.5543478><0.726087, OMNI><SO_WAT-RainishDrips.ogg><526.7544><361.3><0.2282609><1, 
+FadePalette: 8, 0.1956522, 0.3804348, 0.3152174, 0.5, 0.5
 RoomSpecificScriptActive: ON
 WetTerrain: OFF
