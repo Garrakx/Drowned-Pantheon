@@ -1,0 +1,6 @@
+Template: DP_SettingsTemplate_Exterior
+Clouds: 0.06521739
+Grime: 0.09782609
+Effects: Flies-0.1521739-20-20, Bloom-0.5978261-34-94, 
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><733.4306><235.9141><0.3043478><1, 
+FadePalette: 10, 0.6195652, 0.326087, 0.4673913, 0.3152174, 0.4021739

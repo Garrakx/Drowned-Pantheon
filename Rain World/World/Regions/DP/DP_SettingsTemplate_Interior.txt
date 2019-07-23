@@ -7,8 +7,8 @@ WaveLength: 1
 WaveAmplitude: 0.08695652
 SecondWaveLength: 0.1775363
 SecondWaveAmplitude: 0
-Clouds: 0.75
-Grime: 0.25
+Clouds: 0.0326087
+Grime: 0.05434782
 BkgDroneVolume: 0.2769565
 BkgDroneNoThreatVolume: 0
 RandomItemDensity: 0.5543478
@@ -17,3 +17,4 @@ WaterReflectionAlpha: 1
 Palette: 36
 EffectColorA: 18
 EffectColorB: 21
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><751.2385><472.1997><0.5><0.6673913, OMNI><SO_SFX-GlassGhost.ogg><754.084><398.8185><0.2282609><0.9608696, OMNI><SO_SFX-DeepStoneBass.ogg><749.9368><314.1898><0.3913043><1, OMNI><SO_WAT-LilDrips.ogg><747.8759><549.5946><0.5543478><0.726087, 
