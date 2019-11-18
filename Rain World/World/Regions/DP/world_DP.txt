@@ -5,14 +5,23 @@ GATE_SH_DP : DP_BOGGATE
 DP_IN07 : GATE_DS_DP, DP_IN03
 DP_IN03 : DISCONNECTED, DP_IN07, DP_basiccon, DP_IN04, DP_LE09
 DP_basiccon : DP_LE05, DISCONNECTED, DP_IN03, DP_DE04
-DP_LE05 : DP_DE04, DP_DEA08, DP_basiccon
-DP_DE04 : DP_LE05, DP_DEA08, DP_basiccon
-DP_DEA08 : DP_LE05, DP_LEA07, DP_DE04
-DP_LEA07 : DP_DEA08, DP_LEA04, DP_DE07
+DP_LE05 : DP_DE04, DP_basiccon, DP_brokensegment
+DP_DE04 : DP_LE05, DP_basiccon, DP_FE03
+DP_DEA08 : DP_LEA07, DP_LEA04, DP_FIA10
+DP_LEA07 : DP_DEA08, DP_LEA04, DP_bridgetosec
 DP_LEA04 : DP_LEA07
-DP_DE07 : DP_LEA07, DP_pipedown
+DP_bridgetosec : DP_FI05, DP_DEA08, DP_belltower
+DP_belltower : DP_bridgetosec, DP_connectiontodarkex
+DP_connectiontodarkex : DP_belltower, DP_DE07
+DP_DE07 : DP_connectiontodarkex, DP_pipedown
 DP_pipedown : DP_DE07, DP_LES08, DP_TB03
-DP_LES08 : DP_pipedown
+DP_LES08 : DP_pipedown : SHELTER
+
+DP_brokensegment : DP_LE05, DP_bellwall
+DP_bellwall : DP_LEA04, DP_brokensegment, DP_FIA10
+DP_FIA10 : DP_bellwall, DP_DEA08, DP_FI05
+DP_FI05 : DP_FIA10, DP_bridgetosec, DP_FE03
+DP_FE03 : DP_DE04, DP_FI05
 
 DP_IN04 : DP_IN03, DP_IN05, DP_FIA07
 DP_IN05 : DP_IN04, DP_FE05

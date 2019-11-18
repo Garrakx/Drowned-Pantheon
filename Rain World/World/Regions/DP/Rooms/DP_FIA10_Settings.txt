@@ -1,0 +1,7 @@
+Template: NONE
+Palette: 10
+EffectColorA: 14
+EffectColorB: 15
+Effects: LightBurn-0.173913-557-24, Bloom-0.1086956-299-24, RockFlea-0.173913-834-29, Flies-0.25-836-90, Beetle-0.1847826-831-156, 
+PlacedObjects: CustomDecal><650.3942><371.8303><1~85~102~86~101~0~-534~-239~0~1~0~AntMan~0.5~0~0.5~0~0.5~0~0.5~0, LightSource><662.1924><385.4456><0.2173913~Environment~-561~73~-332~101.6025~1~0, 
+FadePalette: 36, 0.3369565
