@@ -2,8 +2,7 @@ ROOMS
 GATE_DS_DP : DISCONNECTED, DP_IN07
 GATE_SB_DP : DISCONNECTED, DP_FI02
 GATE_SH_DP : DISCONNECTED, DISCONNECTED, DP_BOGGATE
-DP_IN07 : DP_finalshelter, GATE_DS_DP, DP_IN03
-DP_finalshelter : DP_IN07 : SHELTER
+DP_IN07 : DISCONNECTED, GATE_DS_DP, DP_IN03
 DP_IN03 : DP_simplecon, DP_IN07, DP_basiccon, DISCONNECTED, DP_IN04
 DP_basiccon : DP_LE05, DISCONNECTED, DP_IN03, DP_DE04
 DP_LE05 : DP_simplecon, DP_brokensegment, DP_DE04, DP_basiccon
@@ -20,8 +19,7 @@ DP_pipedown : DP_DE07, DP_LES08, DP_TB03
 DP_LES08 : DP_pipedown : SHELTER
 
 DP_brokensegment : DP_bellwall, DP_LE05
-DP_bellwall : DP_LEA04, DP_trashshelter, DP_brokensegment, DP_FIA10
-DP_trashshelter : DP_bellwall : SHELTER
+DP_bellwall : DP_LEA04, DP_brokensegment, DP_FIA10
 DP_FIA10 : DP_bellwall, DP_DEA08, DP_FI05
 DP_FI05 : DP_FIA10, DP_bridgetosec, DP_FE03
 DP_FE03 : DP_FI05, DP_DE04
@@ -60,60 +58,46 @@ DP_FIA07 : 4-TentaclePlant
 DP_FE01 : 3-BigNeedleWorm, 4-SmallNeedleWorm-2
 DP_simplecon : 2-BigNeedleWorm, 3-SmallNeedleWorm-3
 DP_TB03 : 6-Salamander, 5-Salamander
-DP_LE05 : 4-Scavenger-2
+(0)DP_LE05 : 4-Scavenger-2
 
 //white
 (0)DP_IN03 : 10-Black, 8-BigSpider
 (0)DP_LE05 : 6-Centiwing-2
+(0)DP_DE04 : 
+(0)DP_DEA08 : 
+(0)DP_LEA07 : 
 (0)DP_bridgetosec : 3-Centiwing-2, 4-Yellow-2, 6-Blue-1
+(0)DP_connectiontodarkex : 
+(0)DP_DE07 : 
+
 (0)DP_brokensegment : 4-Centiwing-2, 4-Centiwing
 (0)DP_bellwall : 2-SpitterSpider
 (0)DP_FIA10 : 4-BigSpider-3
 (0)DP_FE03 : 4-Yellow-2, 3-Yellow-4
-(0)DP_FE02 : 5-Salamander,  4-Centipede-2
+
+(0)DP_IN04 : 
+(0)DP_IN05 : 
+
+(0)DP_FEA06 : 
+(0)DP_FE02 : 5-Salamander
+(0)DP_FEA07 : 
 (0)DP_FI04 : 3-Salamander, 4-Leech-7
+(0)DP_FIA09 : 
+(0)DP_FIA08 : 
 (0)DP_FI02 : 2-Black, 5-Leech-10
+
+(0)DP_FE04 : 
 (0)DP_FE01 : 4-Black
 (0)DP_TB03 : 7-Snail-2
+(0)DP_INA06 : 
 (0)DP_LE03 : 4-BigSpider-2, 5-Snail-2
-(0)DP_DEA08 : 4-Centipede-2
+(0)DP_TB05 : 
 
 //yellow
-(1)DP_IN03 : 10-Black
-(1)DP_LE05 : 6-Centiwing-2
-(1)DP_bridgetosec : 3-Centiwing-2, 4-Yellow-2, 6-Blue-1
-(1)DP_brokensegment : 4-Centiwing-2
-(1)DP_bellwall : 2-BigSpider
-(1)DP_FIA10 : 4-BigSpider-3
-(1)DP_FE03 : 4-Yellow-2, 3-Yellow-4
-(1)DP_FE02 : 5-BigNeedleWorm, 3-SmallNeedleWorm-3
-(1)DP_FI04 : 3-Salamander, 4-Leech-7
-(1)DP_FI02 : 2-Black, 5-Leech-10
-(1)DP_FE01 : 4-Black, 2-Dropbug
-(1)DP_TB03 : 7-Snail-3
-(1)DP_LE03 : 4-BigSpider-2, 5-Snail-2
-(1)DP_DEA08 : 4-Centiwing-2
 
 //red
 (2)OFFSCREEN : 0-KingVulture-1
 (2)DP_belltower : 3-Cyan-2
-(2)DP_IN03 : 10-Black-1, 8-BigSpider-2
-(2)DP_LE05 : 6-Centiwing-2, 3-Centiwing-2
-(2)DP_bridgetosec : 3-Centiwing-2, 4-Yellow-2, 6-Dropbug-2
-(2)DP_DE07 : 4-BigSpider-2
-(2)DP_brokensegment : 4-Centiwing-2, 4-Centiwing
-(2)DP_bellwall : 2-SpitterSpider
-(2)DP_FIA10 : 4-BigSpider-3
-(2)DP_FE03 : 4-Yellow-2, 3-Yellow-4, 6-Dropbug-2
-(2)DP_FE02 : 5-Salamander, 4-Leech-5, 4-RedCentipede
-(2)DP_FI04 : 3-Salamander, 4-Leech-7, 2-Dropbug-2
-(2)DP_FIA08 : 4-Salamander, 5-Salamander
-(2)DP_FI02 : 2-Black, 5-Leech-10 
-(2)DP_FE01 : 4-Black, 2-Dropbug-1
-(2)DP_TB03 : 7-Snail-2
-(2)DP_LE03 : 4-BigSpider-2, 4-Leech-7
-(2)DP_TB05 : 3-Cyan-2
-(2)DP_DEA08 : 4-RedCentipede
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

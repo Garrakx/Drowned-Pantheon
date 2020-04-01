@@ -13,8 +13,9 @@ BkgDroneVolume: 0
 WaterReflectionAlpha: 0.1195652
 Palette: 36
 EffectColorA: 2
-EffectColorB: 9
+EffectColorB: 6
 Effects: SkyBloom-0.09782609-733-132, Beetle-0.06521739-448-197, RockFlea-0.08695652-735-199, FireFlies-0.1630435-732-69, 
-PlacedObjects: PlayerPushback><2497.924><438.1512><50~-255, PlayerPushback><2826.115><441.3361><-19~-251, PlayerPushback><3261.95><437.9927><8~-219, PlayerPushback><3722.445><437.4563><-27~-226, PlayerPushback><4204.834><441.6119><2~-274, PlayerPushback><4779.159><446.6782><2~-213, PlayerPushback><4519.393><445.1101><-5~-232, 
+PlacedObjects: PlayerPushback><2497.924><438.1512><50~-255, PlayerPushback><2826.115><441.3361><-19~-251, PlayerPushback><3261.95><437.9927><8~-219, PlayerPushback><3722.445><437.4563><-27~-226, PlayerPushback><4204.834><441.6119><2~-274, PlayerPushback><4779.159><446.6782><2~-213, PlayerPushback><4519.393><445.1101><-5~-232, DangleFruit><4533.501><1063.2><0~0~2~3, 
+AmbientSounds: OMNI><SO_SFX-GlassGhost.ogg><754.084><398.8185><0.08695652><0.5695652, OMNI><AM_IND-Warehouse02.ogg><747.5823><248.1823><0.2608696><1, OMNI><AM_ENV-NatWind.ogg><746.8448><169.6237><0.2717391><1, 
 FadePalette: 10, 0.25, 0.4565217, 0.4891304, 0.4673913, 0.4565217, 0.3152174, 0.2282609
 WetTerrain: OFF

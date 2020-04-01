@@ -1,6 +1,6 @@
 Clouds: 0.1413043
 Grime: 0
 Effects: LightBurn-0.2717391-20-20, 
-PlacedObjects: LightSource><649.6545><1064.176><0.2826087~Environment~-677~-84~-326~105.6025~1~0, LightSource><1127.45><1071.991><0.2173913~Environment~719~-200~50~86.60254~1~0, LanternOnStick><1770.845><401.1266><51~-133, LanternOnStick><441.6552><405.3737><-50~-106, 
-AmbientSounds: OMNI><SO_WAT-DripTap.ogg><736.8505><553.8828><0.5><1, OMNI><SO_WAT-ProperDrips.ogg><735.8789><475.6529><0.5><1, 
+PlacedObjects: LightSource><649.6545><1064.176><0.2826087~Environment~-677~-84~-326~105.6025~1~0, LightSource><1127.45><1071.991><0.2173913~Environment~719~-200~50~86.60254~1~0, LanternOnStick><1770.845><401.1266><51~-133, LanternOnStick><441.6552><405.3737><-50~-106, PlayerPushback><378.6477><787.9219><-4~121, ReliableSpear><435.157><1022.177><, ReliableSpear><450.4495><1016.986><, ReliableSpear><419.1985><1019.193><, PlayerPushback><605.3738><1083.907><-1~71, SlimeMold><189.668><1307.859><8~-372~2~3, SlimeMold><145.6539><1354.622><-283~-171~2~3, SlimeMold><148.3013><1302.727><-118~-245~2~3, CosmeticSlimeMold><162.684><1322.061><0~100, CosmeticSlimeMold2><245.4502><1294.944><-2~69, LightFixture><154.6027><1317.578><SlimeMoldLight~17.32051~-10~64, 
+AmbientSounds: OMNI><SO_WAT-DripTap.ogg><736.8505><553.8828><0.5><1, OMNI><SO_WAT-ProperDrips.ogg><735.8789><475.6529><0.5><1, OMNI><AM_IND-Warehouse02.ogg><534.0514><524.7264><0.2608696><1, OMNI><SO_SFX-GlassGhost.ogg><754.084><398.8185><0.1630435><0.6478261, 
 FadePalette: 8, 0.4347826, 0.423913, 0.6847826, 0.7608696

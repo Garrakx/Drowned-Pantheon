@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0
+Grime: 0.1413043
+Palette: 36
+EffectColorA: 18
+PlacedObjects: LightSource><568.9443><491.5579><0.1086956~EffectColor1~0~100~-552~-44.39746~1~1, LightSource><431.7576><255.5502><0.09782609~EffectColor1~0~82~-444~-8.397461~1~1, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><700.8214><309.9099><0.3152174><1, SPOT><Basic Mech.ogg><479.1152><480.4135><0.1630435><1><584.1152><389.4135><-142.3553><-83.35535><0><0.2413045, 
+FadePalette: 10, 0.2065217

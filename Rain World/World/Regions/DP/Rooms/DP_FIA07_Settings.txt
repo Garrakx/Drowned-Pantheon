@@ -1,4 +1,4 @@
-Template: SU_SettingsTemplate_Inside
+Template: NONE
 CeilingDrips: 0.6086956
 RumbleIntensity: 1
 WaveLength: 1
@@ -11,7 +11,7 @@ WaterReflectionAlpha: 1
 Palette: 36
 EffectColorA: 2
 EffectColorB: 6
-Effects: Fog-0.7282609-63-67, FireFlies-0.4456522-77-112, WaterGlowworm-0.4891304-120-19, 
+Effects: FireFlies-0.4456522-77-112, WaterGlowworm-0.4891304-120-19, 
 PlacedObjects: WaterNut><586.8699><292.0899><0~0~2~3, WaterNut><607.8328><291.4321><0~0~2~3, WaterNut><490.6638><290.1147><-105~77~3~5, 
 AmbientSounds: OMNI><AM_IND-Fabrik02.ogg><108.9559><266.6951><0.75><0.7065217, 
-FadePalette: 10, 0.4130435
+FadePalette: 10, 0.8043478
